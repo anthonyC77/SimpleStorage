@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/SimpleStorage/static/css/main.90fd764b.chunk.css",
+    "main.js": "/SimpleStorage/static/js/main.7c9ede30.chunk.js",
+    "main.js.map": "/SimpleStorage/static/js/main.7c9ede30.chunk.js.map",
+    "runtime-main.js": "/SimpleStorage/static/js/runtime-main.8ba365ab.js",
+    "runtime-main.js.map": "/SimpleStorage/static/js/runtime-main.8ba365ab.js.map",
+    "static/js/2.b54735c8.chunk.js": "/SimpleStorage/static/js/2.b54735c8.chunk.js",
+    "static/js/2.b54735c8.chunk.js.map": "/SimpleStorage/static/js/2.b54735c8.chunk.js.map",
+    "index.html": "/SimpleStorage/index.html",
+    "precache-manifest.75b4138eff74d6259d071a98aadc2ea9.js": "/SimpleStorage/precache-manifest.75b4138eff74d6259d071a98aadc2ea9.js",
+    "service-worker.js": "/SimpleStorage/service-worker.js",
+    "static/css/main.90fd764b.chunk.css.map": "/SimpleStorage/static/css/main.90fd764b.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ba365ab.js",
+    "static/js/2.b54735c8.chunk.js",
+    "static/css/main.90fd764b.chunk.css",
+    "static/js/main.7c9ede30.chunk.js"
+  ]
+}
